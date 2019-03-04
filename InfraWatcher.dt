@@ -1,12 +1,581 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT7H50M44.9457464S" SolutionTotalViewTime="PT5H58M52.6158029S" SolutionTotalDebugTime="PT10M12.1075907S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT8H56M22.4619636S" SolutionTotalViewTime="PT6H41M9.4992591S" SolutionTotalDebugTime="PT10M12.1075907S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
   </FileVersion>
   <SolutionFolder>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher</SolutionFolder>
   <SessionTimeList />
-  <LastSessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT4.6416114S" EditActiveTime="PT20.8675524S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings - Copy.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:07:48.1916311+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8085366S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:49.98745+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.9122897S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\Scripts\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:49.8642827+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.4708696S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.linux.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:47.9551416+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.7949379S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.management-scope.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:58.4903095+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.7042836S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-linux.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:42.2498603+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.0405354S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-windows.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:30.2083271+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0159558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.powershell.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:08:26.0629412+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.6008753S" EditActiveTime="PT11.6592698S">
+      <ModifiedDate>2019-03-04T16:07:46.6284523+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:17:05.7765724+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.0156884S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\Class1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:32.1779202+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.7708955S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>CommandInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:01:58.2380287+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.1675453S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotFoundException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:13.7598856+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.559912S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotSpecifiedException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:16.6937122+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.6768972S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandResultException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:39.4218454+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.8278215S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\DefaultCommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:03:32.6436766+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.2075203S" EditActiveTime="PT28.8205065S">
+      <ModifiedDate>2019-03-04T16:13:53.0064963+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\ICommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:20.3398617+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.4207138S" EditActiveTime="PT39.901695S">
+      <ModifiedDate>2019-03-04T16:14:37.00184+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\IOperatingSystemProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:55.3809029+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.6045634S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:46.0395969+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.4221829S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerInfoService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:45.7163302+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.587178S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerMemoryService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:54.6313603+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0694453S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerOperatingSystemService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:15.2644327+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M8.2906488S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerProcessorService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:17.3358726+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.8101061S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\KeywordNotFoundException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:12:50.6030245+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8832569S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:14.864329+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M42.0236916S" EditActiveTime="PT50.0546679S">
+      <ModifiedDate>2019-03-04T15:59:03.8158895+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:08.727057+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M31.0811172S" EditActiveTime="PT2M42.0886293S">
+      <ModifiedDate>2019-03-04T15:58:49.2022139+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxScriptServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:18.7575498+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2418556S" EditActiveTime="PT11.9140637S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:11:18.2639022+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.5701469S" EditActiveTime="PT37.9390736S">
+      <ModifiedDate>2019-03-04T14:11:15.1604387+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:51.9249855+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.2080031S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ManagementScope.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:27:15.7504877+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7653406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:04.5100091+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M43.1192758S" EditActiveTime="PT2M22.1760086S">
+      <ModifiedDate>2019-03-04T15:52:14.5234049+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:23:54.0217355+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.4339508S" EditActiveTime="PT1.6968894S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\ManagementScopeConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:44.7617285+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.6371005S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:16.0378712+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT47.2860985S" EditActiveTime="PT42.5479494S">
+      <ModifiedDate>2019-03-04T15:58:14.6628205+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:52.3112709+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M34.8473536S" EditActiveTime="PT19.6034309S">
+      <ModifiedDate>2019-03-04T14:58:56.2476236+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:19:23.337899+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M1.9856761S" EditActiveTime="PT1M36.8789121S">
+      <ModifiedDate>2019-03-04T15:57:32.8448673+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:01.4065893+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2026522S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:00.4141608+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.5153243S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderTimeoutException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:09.6198362+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M2.5383647S" EditActiveTime="PT41M59.0789317S">
+      <ModifiedDate>2019-03-04T15:42:39.5859856+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\PowerShellConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:57.8955605+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT44.1477742S" EditActiveTime="PT3M8.1372509S">
+      <ModifiedDate>2019-03-04T16:02:53.9472781+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:31.6779826+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M17.7469523S" EditActiveTime="PT55.9358901S">
+      <ModifiedDate>2019-03-04T16:09:50.0951813+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:00:35.9607438+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2875444S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Runspace.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:41:07.3342349+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9186177S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>RunspaceConnectionInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:40:48.8910789+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.5249799S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\ScriptCommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:17:11.6538816+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.9240437S" EditActiveTime="PT9.7544313S">
+      <ModifiedDate>2019-03-04T15:22:48.9046181+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Command\ServerCommandResult.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:47:14.3378667+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.3152069S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerConnection.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:34:38.7004314+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.1996764S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\ServerConnectionException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:11.1371951+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7869479S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerCredential.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:34:41.3679359+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.9181833S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Services\ServerInfoService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:03.8498634+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M10.7610241S" EditActiveTime="PT5M7.1375733S">
+      <ModifiedDate>2019-03-04T15:50:03.1243432+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\SSHConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\InfraWatcher.Ssh.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:10:04.0225015+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.4783843S" EditActiveTime="PT48.1625363S">
+      <ModifiedDate>2019-03-04T15:57:16.0116061+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\SshConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:29:56.4415394+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9041558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Stopwatch.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:06:16.3267255+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.1714789S" EditActiveTime="PT1M15.5736177S">
+      <ModifiedDate>2019-03-04T14:51:54.5258087+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Extensions\StringExtensions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:49:52.5048424+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.0161075S" EditActiveTime="PT1M7.5734032S">
+      <ModifiedDate>2019-03-04T16:11:06.8180238+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\TTLOperatingSystemProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:03:33.4553665+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.0451037S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>WSManConnectionInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:40:46.0082518+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
   <TotalTimeList>
     <DevTrackerDataItem ViewActiveTime="PT47.9716349S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
@@ -59,37 +628,57 @@
       <CreatedDate>2019-03-03T14:29:43.7716621+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M21.1917816S" EditActiveTime="PT2M51.3426113S">
+    <DevTrackerDataItem ViewActiveTime="PT4.6416114S" EditActiveTime="PT20.8675524S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings - Copy.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:07:48.1916311+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M25.0003182S" EditActiveTime="PT2M51.3426113S">
       <ModifiedDate>2019-03-03T18:31:29.2895485+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.json</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-03T02:33:03.3863632+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M29.7338081S" EditActiveTime="PT22.1308175S">
+    <DevTrackerDataItem ViewActiveTime="PT2M45.6460978S" EditActiveTime="PT22.1308175S">
       <ModifiedDate>2019-03-04T00:57:35.2517083+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\Scripts\appsettings.json</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-04T00:56:26.5866965+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M51.5640184S" EditActiveTime="PT55.179588S">
+    <DevTrackerDataItem ViewActiveTime="PT1M57.034888S" EditActiveTime="PT55.179588S">
       <ModifiedDate>2019-03-03T05:32:20.8734602+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.Linux.json</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-03T02:28:05.1634582+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.7949379S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.management-scope.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:58.4903095+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT9.4035325S" EditActiveTime="PT0S">
@@ -122,11 +711,11 @@
       <CreatedDate>2019-03-03T14:29:34.524707+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M35.5046998S" EditActiveTime="PT0.9203609S">
+    <DevTrackerDataItem ViewActiveTime="PT1M41.2089834S" EditActiveTime="PT0.9203609S">
       <ModifiedDate>2019-03-03T23:58:37.4095842+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-linux.json</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
@@ -153,14 +742,35 @@
       <CreatedDate>2019-03-03T14:29:28.5640935+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT39.8013764S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT51.8419118S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-windows.json</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-03T14:59:18.4207942+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0159558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.powershell.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:08:26.0629412+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.6008753S" EditActiveTime="PT11.6592698S">
+      <ModifiedDate>2019-03-04T16:07:46.6284523+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:17:05.7765724+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT13.2383494S" EditActiveTime="PT0S">
@@ -306,6 +916,16 @@
       <CreatedDate>2019-03-03T01:11:28.0190923+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.0156884S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\Class1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:32.1779202+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT16.9733214S" EditActiveTime="PT11.0806529S">
       <ModifiedDate>2019-03-02T19:23:45.9816353+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
@@ -403,6 +1023,16 @@
       <CreatedDate>2019-03-02T20:07:01.3329936+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.7708955S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>CommandInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:01:58.2380287+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT37.5749708S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
@@ -413,22 +1043,22 @@
       <CreatedDate>2019-03-02T17:31:08.6101388+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT56.6808783S" EditActiveTime="PT48.3177331S">
+    <DevTrackerDataItem ViewActiveTime="PT1M35.8484236S" EditActiveTime="PT48.3177331S">
       <ModifiedDate>2019-03-02T16:18:55.4234177+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotFoundException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:17:16.7821404+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.2773816S" EditActiveTime="PT10.1666816S">
+    <DevTrackerDataItem ViewActiveTime="PT16.8372936S" EditActiveTime="PT10.1666816S">
       <ModifiedDate>2019-03-02T17:46:11.7723826+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotSpecifiedException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -456,10 +1086,10 @@
       <CreatedDate>2019-03-02T17:46:33.0462568+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT14.5610619S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT15.2379591S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandResultException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -509,11 +1139,11 @@
       <CreatedDate>2019-03-03T18:02:56.0839656+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27M4.7897822S" EditActiveTime="PT53M52.4191286S">
+    <DevTrackerDataItem ViewActiveTime="PT27M6.6176037S" EditActiveTime="PT53M52.4191286S">
       <ModifiedDate>2019-03-04T00:28:18.4226787+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\DefaultCommandProvider.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
@@ -574,11 +1204,11 @@
       <CreatedDate>2019-03-02T20:07:48.7643217+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7M8.0975849S" EditActiveTime="PT12M46.9708043S">
-      <ModifiedDate>2019-03-04T00:16:50.1292036+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT7M14.3051052S" EditActiveTime="PT13M15.7913108S">
+      <ModifiedDate>2019-03-04T16:13:53.0064963+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\ICommandProvider.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -691,11 +1321,11 @@
       <CreatedDate>2019-03-03T11:59:10.0064316+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.7760582S" EditActiveTime="PT7.7233181S">
-      <ModifiedDate>2019-03-03T11:59:42.5070065+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT20.196772S" EditActiveTime="PT47.6250131S">
+      <ModifiedDate>2019-03-04T16:14:37.00184+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\IOperatingSystemProvider.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -765,55 +1395,55 @@
       <CreatedDate>2019-03-02T16:43:09.1451467+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT8M24.8143013S" EditActiveTime="PT6M0.0563921S">
+    <DevTrackerDataItem ViewActiveTime="PT8M31.4188647S" EditActiveTime="PT6M0.0563921S">
       <ModifiedDate>2019-03-03T17:37:17.066937+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerConnectionService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:20:20.8276827+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M24.1438329S" EditActiveTime="PT38.054166S">
+    <DevTrackerDataItem ViewActiveTime="PT3M38.5660158S" EditActiveTime="PT38.054166S">
       <ModifiedDate>2019-03-03T16:38:01.7827077+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerInfoService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:51:39.6164123+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M18.0570389S" EditActiveTime="PT1M39.6305948S">
+    <DevTrackerDataItem ViewActiveTime="PT2M21.6442169S" EditActiveTime="PT1M39.6305948S">
       <ModifiedDate>2019-03-03T11:47:11.7217195+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerMemoryService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:40:55.8923838+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M22.6941836S" EditActiveTime="PT1M59.247507S">
+    <DevTrackerDataItem ViewActiveTime="PT2M24.7636289S" EditActiveTime="PT1M59.247507S">
       <ModifiedDate>2019-03-03T16:36:58.4638803+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerOperatingSystemService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:25:20.8898989+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M26.1679496S" EditActiveTime="PT1M11.5710755S">
+    <DevTrackerDataItem ViewActiveTime="PT4M34.4585984S" EditActiveTime="PT1M11.5710755S">
       <ModifiedDate>2019-03-03T11:48:55.0412619+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerProcessorService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -840,14 +1470,35 @@
       <CreatedDate>2019-03-03T03:12:58.2782968+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2.1403944S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT11.9505005S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\KeywordNotFoundException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T17:31:06.4667531+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8832569S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:14.864329+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M42.0157124S" EditActiveTime="PT50.0546679S">
+      <ModifiedDate>2019-03-04T15:59:03.8158895+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:08.727057+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT4.7042511S" EditActiveTime="PT3M37.5784257S">
@@ -861,11 +1512,32 @@
       <CreatedDate>2019-03-02T17:11:19.0012157+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1H8M8.1905291S" EditActiveTime="PT1H20M5.9805957S">
-      <ModifiedDate>2019-03-04T01:06:11.7988932+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M31.0811172S" EditActiveTime="PT2M42.0886293S">
+      <ModifiedDate>2019-03-04T15:58:49.2022139+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxScriptServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:18.7575498+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2418556S" EditActiveTime="PT11.9140637S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:11:18.2639022+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H9M30.760676S" EditActiveTime="PT1H20M43.9196693S">
+      <ModifiedDate>2019-03-04T14:11:15.1604387+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
@@ -903,26 +1575,88 @@
       <CreatedDate>2019-03-02T19:04:19.6681736+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11M17.5506981S" EditActiveTime="PT23M47.6152696S">
-      <ModifiedDate>2019-03-03T17:37:39.465479+02:00</ModifiedDate>
-      <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
+    <DevTrackerDataItem ViewActiveTime="PT7.2080031S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>ManagementScope.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:27:15.7504877+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7653406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:04.5100091+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M0.6699739S" EditActiveTime="PT26M9.7912782S">
+      <ModifiedDate>2019-03-04T15:52:14.5234049+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
       <CreatedDate>2019-03-02T17:58:04.703935+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT13M42.2561597S" EditActiveTime="PT2M40.248516S">
-      <ModifiedDate>2019-03-03T23:48:26.646142+02:00</ModifiedDate>
-      <ModifiedBy>jhonny</ModifiedBy>
+    <DevTrackerDataItem ViewActiveTime="PT11.4339508S" EditActiveTime="PT1.6968894S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\ManagementScopeConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:44.7617285+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.6371005S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:16.0378712+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M29.5422582S" EditActiveTime="PT3M22.7964654S">
+      <ModifiedDate>2019-03-04T15:58:14.6628205+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-02T23:30:51.8895984+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M34.8473536S" EditActiveTime="PT19.6034309S">
+      <ModifiedDate>2019-03-04T14:58:56.2476236+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:19:23.337899+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M1.9856761S" EditActiveTime="PT1M36.8789121S">
+      <ModifiedDate>2019-03-04T15:57:32.8448673+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:01.4065893+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT4.8008229S" EditActiveTime="PT0S">
@@ -986,22 +1720,22 @@
       <CreatedDate>2019-03-03T12:41:19.1002057+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.6311631S" EditActiveTime="PT2.0878245S">
+    <DevTrackerDataItem ViewActiveTime="PT19.8338153S" EditActiveTime="PT2.0878245S">
       <ModifiedDate>2019-03-03T12:10:06.2381023+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-03T12:09:58.7849829+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.5790894S" EditActiveTime="PT1.6861276S">
+    <DevTrackerDataItem ViewActiveTime="PT6.0944137S" EditActiveTime="PT1.6861276S">
       <ModifiedDate>2019-03-03T12:41:32.722762+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderTimeoutException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -1049,6 +1783,39 @@
       <CreatedDate>2019-03-02T18:32:19.8504656+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M2.5383647S" EditActiveTime="PT41M59.0789317S">
+      <ModifiedDate>2019-03-04T15:42:39.5859856+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\PowerShellConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:57.8955605+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT44.1477742S" EditActiveTime="PT3M8.1372509S">
+      <ModifiedDate>2019-03-04T16:02:53.9472781+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:31.6779826+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M17.7469523S" EditActiveTime="PT55.9358901S">
+      <ModifiedDate>2019-03-04T16:09:50.0951813+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:00:35.9607438+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT5.058977S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
@@ -1091,6 +1858,26 @@
       <CreatedDate>2019-03-03T03:00:14.8017673+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2875444S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Runspace.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:41:07.3342349+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9186177S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>RunspaceConnectionInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:40:48.8910789+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT1.6745943S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
@@ -1112,10 +1899,10 @@
       <CreatedDate>2019-03-02T17:53:31.9251883+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT34.7545094S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT44.2794893S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\ScriptCommandProvider.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
@@ -1165,11 +1952,11 @@
       <CreatedDate>2019-03-02T16:47:22.1257694+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.4075473S" EditActiveTime="PT9.3003605S">
-      <ModifiedDate>2019-03-02T17:36:21.9241288+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT59.331591S" EditActiveTime="PT19.0547918S">
+      <ModifiedDate>2019-03-04T15:22:48.9046181+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Command\ServerCommandResult.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -1186,21 +1973,21 @@
       <CreatedDate>2019-03-02T16:08:16.7678481+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M24.3183324S" EditActiveTime="PT27.7148715S">
+    <DevTrackerDataItem ViewActiveTime="PT1M32.6335393S" EditActiveTime="PT27.7148715S">
       <ModifiedDate>2019-03-03T12:03:57.558006+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerConnection.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
       <CreatedDate>2019-03-02T16:09:10.885917+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.9078985S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT14.1075749S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\ServerConnectionException.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -1218,11 +2005,11 @@
       <CreatedDate>2019-03-02T16:03:28.6118346+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT44.8776161S" EditActiveTime="PT22.1915224S">
+    <DevTrackerDataItem ViewActiveTime="PT46.664564S" EditActiveTime="PT22.1915224S">
       <ModifiedDate>2019-03-03T11:57:43.3792451+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerCredential.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
@@ -1239,11 +2026,11 @@
       <CreatedDate>2019-03-02T19:49:19.2253302+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9M17.5802215S" EditActiveTime="PT9M0.7860245S">
+    <DevTrackerDataItem ViewActiveTime="PT9M22.4984048S" EditActiveTime="PT9M0.7860245S">
       <ModifiedDate>2019-03-04T01:17:17.0482161+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Services\ServerInfoService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
@@ -1472,11 +2259,11 @@
       <CreatedDate>2019-03-02T17:52:59.6342315+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT12M5.6585007S" EditActiveTime="PT9M59.1228151S">
-      <ModifiedDate>2019-03-03T17:37:41.0858142+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT14M16.4195248S" EditActiveTime="PT15M6.2603884S">
+      <ModifiedDate>2019-03-04T15:50:03.1243432+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\SSHConnectionService.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\InfraWatcher.SSH.csproj</ProjectName>
@@ -1493,22 +2280,43 @@
       <CreatedDate>2019-03-02T23:29:24.4180003+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M9.4820627S" EditActiveTime="PT6M21.9139883S">
-      <ModifiedDate>2019-03-02T23:31:28.5064493+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT4M57.960447S" EditActiveTime="PT7M10.0765246S">
+      <ModifiedDate>2019-03-04T15:57:16.0116061+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\SshConnectionServiceTest.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
       <CreatedDate>2019-03-02T23:05:48.718867+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11M33.7911628S" EditActiveTime="PT2M40.7472555S">
-      <ModifiedDate>2019-03-03T18:34:57.2510765+02:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3.9041558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Stopwatch.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:06:16.3267255+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.1714789S" EditActiveTime="PT1M15.5736177S">
+      <ModifiedDate>2019-03-04T14:51:54.5258087+02:00</ModifiedDate>
       <ModifiedBy>jhonny</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Extensions\StringExtensions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:49:52.5048424+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13M8.8072703S" EditActiveTime="PT3M48.3206587S">
+      <ModifiedDate>2019-03-04T16:11:06.8180238+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\TTLOperatingSystemProvider.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
@@ -1536,10 +2344,10 @@
       <CreatedDate>2019-03-02T23:29:34.6320286+02:00</CreatedDate>
       <ViewedBy>jhonny</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT12.769384S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT17.8144877S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>WSManConnectionInfo.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName />
@@ -1548,6 +2356,574 @@
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M8.2906488S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerProcessorService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:17.3358726+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0694453S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerOperatingSystemService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:15.2644327+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.9181833S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Services\ServerInfoService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:15:03.8498634+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.587178S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerMemoryService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:54.6313603+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.6045634S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:46.0395969+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.4221829S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Services\IServerInfoService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:14:45.7163302+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.4207138S" EditActiveTime="PT39.901695S">
+      <ModifiedDate>2019-03-04T16:14:37.00184+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\IOperatingSystemProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:55.3809029+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.2075203S" EditActiveTime="PT28.8205065S">
+      <ModifiedDate>2019-03-04T16:13:53.0064963+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Providers\ICommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:20.3398617+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.1996764S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\ServerConnectionException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:11.1371951+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.5153243S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderTimeoutException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:09.6198362+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2026522S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\OperatingSystemProviderException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:13:00.4141608+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.8101061S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\KeywordNotFoundException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:12:50.6030245+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.6768972S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandResultException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:39.4218454+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.559912S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotSpecifiedException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:16.6937122+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.1675453S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Exceptions\CommandNotFoundException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:11:13.7598856+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.0159558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.powershell.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:08:26.0629412+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.6416114S" EditActiveTime="PT20.8675524S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings - Copy.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:07:48.1916311+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.0161075S" EditActiveTime="PT1M7.5734032S">
+      <ModifiedDate>2019-03-04T16:11:06.8180238+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\TTLOperatingSystemProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:03:33.4553665+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.8278215S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\DefaultCommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:03:32.6436766+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M17.7469523S" EditActiveTime="PT55.9358901S">
+      <ModifiedDate>2019-03-04T16:09:50.0951813+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T16:00:35.9607438+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT44.1477742S" EditActiveTime="PT3M8.1372509S">
+      <ModifiedDate>2019-03-04T16:02:53.9472781+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\PowerShellConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:31.6779826+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.6371005S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T15:54:16.0378712+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.9041558S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Stopwatch.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:06:16.3267255+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.7708955S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>CommandInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T15:01:58.2380287+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.1714789S" EditActiveTime="PT1M15.5736177S">
+      <ModifiedDate>2019-03-04T14:51:54.5258087+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Extensions\StringExtensions.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:49:52.5048424+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.9240437S" EditActiveTime="PT9.7544313S">
+      <ModifiedDate>2019-03-04T15:22:48.9046181+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Command\ServerCommandResult.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:47:14.3378667+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2875444S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Runspace.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:41:07.3342349+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10.9186177S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>RunspaceConnectionInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:40:48.8910789+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.0451037S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>WSManConnectionInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:40:46.0082518+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7869479S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerCredential.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:34:41.3679359+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.3152069S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\Models\Connection\ServerConnection.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Core\InfraWatcher.Core.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:34:38.7004314+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M2.5383647S" EditActiveTime="PT41M59.0789317S">
+      <ModifiedDate>2019-03-04T15:42:39.5859856+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\PowerShellConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:57.8955605+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.4339508S" EditActiveTime="PT1.6968894S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\ManagementScopeConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.Connections.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:30:44.7617285+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.4783843S" EditActiveTime="PT48.1625363S">
+      <ModifiedDate>2019-03-04T15:57:16.0116061+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\SshConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:29:56.4415394+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.2080031S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ManagementScope.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-03-04T14:27:15.7504877+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.0156884S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\Class1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.PowerShell\InfraWatcher.PowerShell.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:32.1779202+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7653406S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:24:04.5100091+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M43.1192758S" EditActiveTime="PT2M22.1760086S">
+      <ModifiedDate>2019-03-04T15:52:14.5234049+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\ManagementScopeConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Windows\InfraWatcher.Windows.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:23:54.0217355+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.7949379S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.management-scope.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:58.4903095+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.4708696S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.linux.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:47.9551416+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.7042836S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-linux.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:42.2498603+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.0405354S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.os-windows.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:22:30.2083271+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M34.8473536S" EditActiveTime="PT19.6034309S">
+      <ModifiedDate>2019-03-04T14:58:56.2476236+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:19:23.337899+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.5249799S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\Providers\ScriptCommandProvider.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Common\InfraWatcher.Common.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:17:11.6538816+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.6008753S" EditActiveTime="PT11.6592698S">
+      <ModifiedDate>2019-03-04T16:07:46.6284523+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.scripts.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:17:05.7765724+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.9122897S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\Scripts\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:49.8642827+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M31.0811172S" EditActiveTime="PT2M42.0886293S">
+      <ModifiedDate>2019-03-04T15:58:49.2022139+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxScriptServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:18.7575498+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8832569S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:14.864329+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M42.0197334S" EditActiveTime="PT50.0546679S">
+      <ModifiedDate>2019-03-04T15:59:03.8158895+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxCommandServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:08.727057+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M1.9856761S" EditActiveTime="PT1M36.8789121S">
+      <ModifiedDate>2019-03-04T15:57:32.8448673+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:16:01.4065893+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2418556S" EditActiveTime="PT11.9140637S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest - Copy.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:11:18.2639022+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M10.7610241S" EditActiveTime="PT5M7.1375733S">
+      <ModifiedDate>2019-03-04T15:50:03.1243432+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\SSHConnectionService.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.SSH\InfraWatcher.Ssh.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:10:04.0225015+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT47.2860985S" EditActiveTime="PT42.5479494S">
+      <ModifiedDate>2019-03-04T15:58:14.6628205+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\ManagementScopeConnectionServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:52.3112709+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.5701469S" EditActiveTime="PT37.9390736S">
+      <ModifiedDate>2019-03-04T14:11:15.1604387+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\LinuxServiceTest.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:51.9249855+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.8085366S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C#\InfraWatcher\InfraWatcher.Test\InfraWatcher.Test.csproj</ProjectName>
+      <CreatedDate>2019-03-04T14:09:49.98745+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT34.7545094S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
