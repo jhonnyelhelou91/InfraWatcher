@@ -19,8 +19,9 @@
   <ItemGroup>
     <ProjectReference Include="..\InfraWatcher.Common\InfraWatcher.Common.csproj" />
     <ProjectReference Include="..\InfraWatcher.Core\InfraWatcher.Core.csproj" />
-    <ProjectReference Include="..\InfraWatcher.SSH\InfraWatcher.Ssh.csproj" />
-    <ProjectReference Include="..\InfraWatcher.Windows\InfraWatcher.Windows.csproj" />
+    <ProjectReference Include="..\InfraWatcher.PowerShell\InfraWatcher.Connections.RemotePowerShell.csproj" />
+    <ProjectReference Include="..\InfraWatcher.SSH\InfraWatcher.Connections.SSH.csproj" />
+    <ProjectReference Include="..\InfraWatcher.Windows\InfraWatcher.Connections.WMI.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,17 +1,15 @@
 ﻿using InfraWatcher.Core.Services;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using InfraWatcher.Core.Models.Command;
 using InfraWatcher.Core.Models.Connection;
-using InfraWatcher.Core.Providers;
 using Renci.SshNet;
 using InfraWatcher.Core.Exceptions;
 using Renci.SshNet.Common;
+using System.Diagnostics;
 
-namespace InfraWatcher.Ssh
+namespace InfraWatcher.Connections.SSH
 {
-    public class SshConnectionService : IServerConnectionService, IDisposable
+    public class SSHConnectionService : IServerConnectionService, IDisposable
     {
         private SshClient Client;
 
@@ -79,6 +77,8 @@ namespace InfraWatcher.Ssh
             {
                 throw new ServerConnectionException("Server connection is not established");
             }
+            if (serverCommand == null)
+                throw new ArgumentNullException(nameof(serverCommand));
             if (string.IsNullOrEmpty(serverCommand.Text))
                 throw new CommandNotSpecifiedException($"Command was not defined");
 
@@ -87,25 +87,36 @@ namespace InfraWatcher.Ssh
                 if (serverCommand.Timeout.HasValue)
                     command.CommandTimeout = serverCommand.Timeout.Value;
 
+                Stopwatch stopwatch = Stopwatch.StartNew();
+                var result = new ServerCommandResult();
                 try
                 {
                     command.Execute();
                 }
                 catch (SshOperationTimeoutException exception)
                 {
-                    throw new CommandTimeoutException(exception.Message);
+                    if (serverCommand.ThrowError)
+                        throw new CommandTimeoutException(exception.Message);
+                    else
+                        result.Error = exception.Message;
                 }
                 catch (SshConnectionException exception)
                 {
-                    throw new ServerConnectionException(exception.Message);
+                    if (serverCommand.ThrowError)
+                        throw new ServerConnectionException(exception.Message);
+                    else
+                        result.Error = exception.Message;
+                }
+                finally
+                {
+                    if (stopwatch.IsRunning)
+                        stopwatch.Stop();
                 }
 
-                var result = new ServerCommandResult
-                {
-                    Result = command.Result,
-                    Error = command.Error,
-                    ExitStatus = command.ExitStatus
-                };
+                result.Result = command.Result;
+                result.ElapsedTime = stopwatch.Elapsed;
+                result.Error = command.Error;
+                result.ExitStatus = command.ExitStatus;
 
                 if (serverCommand.ThrowError && !string.IsNullOrEmpty(command.Error))
                 {

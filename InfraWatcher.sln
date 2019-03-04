@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Core", "InfraWatcher.Core\InfraWatcher.Core.csproj", "{8527EEA2-2847-470C-AF9C-0665DBB71E92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraWatcher.Core", "InfraWatcher.Core\InfraWatcher.Core.csproj", "{8527EEA2-2847-470C-AF9C-0665DBB71E92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Ssh", "InfraWatcher.SSH\InfraWatcher.Ssh.csproj", "{AFED43E1-013E-43B6-B48D-F66DCD88A568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraWatcher.Connections.SSH", "InfraWatcher.SSH\InfraWatcher.Connections.SSH.csproj", "{AFED43E1-013E-43B6-B48D-F66DCD88A568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Windows", "InfraWatcher.Windows\InfraWatcher.Windows.csproj", "{F69EEE72-78C4-4C3D-AEBF-991FE9C6EA46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraWatcher.Connections.WMI", "InfraWatcher.Windows\InfraWatcher.Connections.WMI.csproj", "{F69EEE72-78C4-4C3D-AEBF-991FE9C6EA46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Common", "InfraWatcher.Common\InfraWatcher.Common.csproj", "{6D5BC7E7-228D-4106-AFBB-A044BB2A2223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraWatcher.Common", "InfraWatcher.Common\InfraWatcher.Common.csproj", "{6D5BC7E7-228D-4106-AFBB-A044BB2A2223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Test", "InfraWatcher.Test\InfraWatcher.Test.csproj", "{28AA83B1-3E6A-4091-A078-FD0E2217B058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraWatcher.Test", "InfraWatcher.Test\InfraWatcher.Test.csproj", "{28AA83B1-3E6A-4091-A078-FD0E2217B058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfraWatcher.Connections.RemotePowerShell", "InfraWatcher.PowerShell\InfraWatcher.Connections.RemotePowerShell.csproj", "{240F9614-5204-4600-BBB5-A940644C80C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Connections", "Connections", "{E1B6E2EB-1E50-4333-9603-CA5C76131B24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +43,18 @@ Global
 		{28AA83B1-3E6A-4091-A078-FD0E2217B058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28AA83B1-3E6A-4091-A078-FD0E2217B058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28AA83B1-3E6A-4091-A078-FD0E2217B058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240F9614-5204-4600-BBB5-A940644C80C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240F9614-5204-4600-BBB5-A940644C80C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240F9614-5204-4600-BBB5-A940644C80C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240F9614-5204-4600-BBB5-A940644C80C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFED43E1-013E-43B6-B48D-F66DCD88A568} = {E1B6E2EB-1E50-4333-9603-CA5C76131B24}
+		{F69EEE72-78C4-4C3D-AEBF-991FE9C6EA46} = {E1B6E2EB-1E50-4333-9603-CA5C76131B24}
+		{240F9614-5204-4600-BBB5-A940644C80C4} = {E1B6E2EB-1E50-4333-9603-CA5C76131B24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E94B5E1-D521-476E-85BC-E83ECFEBCD55}

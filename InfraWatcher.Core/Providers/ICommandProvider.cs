@@ -4,6 +4,9 @@ using System;
 
 namespace InfraWatcher.Core.Providers
 {
+    /// <summary>
+    /// Interface responsible of retreiving the list of commands or a single command by name
+    /// </summary>
     public interface ICommandProvider
     {
         /// <summary>

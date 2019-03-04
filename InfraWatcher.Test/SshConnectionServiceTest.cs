@@ -1,7 +1,7 @@
 using InfraWatcher.Core.Exceptions;
 using InfraWatcher.Core.Models.Connection;
 using InfraWatcher.Core.Services;
-using InfraWatcher.Ssh;
+using InfraWatcher.Connections.SSH;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Net.Sockets;
@@ -9,14 +9,15 @@ using System.Net.Sockets;
 namespace InfraWatcher.Test
 {
     [TestClass]
-    public class SshConnectionServiceTest
+    public class SSHConnectionServiceTest
     {
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenCredentialsNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = null,
@@ -25,11 +26,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenHostNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -41,11 +43,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenUsernameNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -57,11 +60,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenHostDoesNotExist_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -73,11 +77,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenConnectionTimeOut_ThrowsSshOperationTimeoutException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -91,11 +96,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenInvalidUsername_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -107,11 +113,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenInvalidPassword_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -124,10 +131,11 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("SshConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("SSH")]
         public void Connect_WhenValidUserAndPassword_IsConnected()
         {
-            IServerConnectionService connection = new SshConnectionService();
+            IServerConnectionService connection = new SSHConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential

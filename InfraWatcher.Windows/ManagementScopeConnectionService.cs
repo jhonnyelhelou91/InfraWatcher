@@ -2,13 +2,13 @@
 using System;
 using InfraWatcher.Core.Models.Command;
 using InfraWatcher.Core.Models.Connection;
-using InfraWatcher.Core.Providers;
 using System.Management;
 using InfraWatcher.Core.Exceptions;
 using System.Collections.Generic;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
-namespace InfraWatcher.Windows
+namespace InfraWatcher.Connections.WMI
 {
     public class ManagementScopeConnectionService : IServerConnectionService
     {
@@ -81,6 +81,8 @@ namespace InfraWatcher.Windows
             {
                 throw new ServerConnectionException("Server connection is not established");
             }
+            if (serverCommand == null)
+                throw new ArgumentNullException(nameof(serverCommand));
             if (string.IsNullOrEmpty(serverCommand.Text))
                 throw new CommandNotSpecifiedException($"Command was not defined");
 
@@ -111,8 +113,12 @@ namespace InfraWatcher.Windows
 
                 var searcher = new ManagementObjectSearcher(ManagementScope, query, commandOptions);
 
+                Stopwatch stopWatch = Stopwatch.StartNew();
                 using (var managementObjectCollection = searcher.Get())
                 {
+                    if (stopWatch.IsRunning)
+                        stopWatch.Stop();
+
                     var list = new List<Dictionary<string, object>>();
 
                     foreach (var managementObject in managementObjectCollection)
@@ -128,6 +134,7 @@ namespace InfraWatcher.Windows
                     }
 
                     result.Result = JsonConvert.SerializeObject(list);
+                    result.ElapsedTime = stopWatch.Elapsed;
 
                     return result;
                 }

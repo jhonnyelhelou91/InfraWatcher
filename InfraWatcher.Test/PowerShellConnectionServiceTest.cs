@@ -1,7 +1,7 @@
 using InfraWatcher.Core.Exceptions;
 using InfraWatcher.Core.Models.Connection;
 using InfraWatcher.Core.Services;
-using InfraWatcher.Connections.WMI;
+using InfraWatcher.Connections.RemotePowerShell;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Net.Sockets;
@@ -9,15 +9,15 @@ using System.Net.Sockets;
 namespace InfraWatcher.Test
 {
     [TestClass]
-    public class ManagementScopeConnectionServiceTest
+    public class PowerShellConnectionServiceTest
     {
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenCredentialsNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = null,
@@ -27,11 +27,11 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenHostNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -44,11 +44,11 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void Connect_WhenUsernameNull_ThrowsArgumentNullException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -61,11 +61,11 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenHostDoesNotExist_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -78,11 +78,11 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenConnectionTimeOut_ThrowsWindowsOperationTimeoutException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -96,11 +96,12 @@ namespace InfraWatcher.Test
         }
 
         [TestMethod]
-        [TestCategory("WindowsConnection")]
+        [TestCategory("Connection")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenInvalidUsername_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -113,11 +114,11 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         [ExpectedException(typeof(ServerConnectionException))]
         public void Connect_WhenInvalidPassword_ThrowsServerConnectionException()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -131,10 +132,10 @@ namespace InfraWatcher.Test
 
         [TestMethod]
         [TestCategory("Connection")]
-        [TestCategory("ManagementScope")]
+        [TestCategory("PowerShell")]
         public void Connect_WhenValidUserAndPassword_IsConnected()
         {
-            IServerConnectionService connection = new ManagementScopeConnectionService();
+            IServerConnectionService connection = new PowerShellConnectionService();
             connection.Connect(new ServerConnection
             {
                 Credential = new ServerCredential
@@ -142,7 +143,8 @@ namespace InfraWatcher.Test
                     Username = "default",
                     Password = ""
                 },
-                Host = "10.1.10.1"
+                Host = "10.1.10.1",
+                Port = 443
             });
 
             Assert.IsTrue(connection.IsConnected);

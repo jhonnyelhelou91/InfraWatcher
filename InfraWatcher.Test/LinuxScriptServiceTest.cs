@@ -3,8 +3,7 @@ using InfraWatcher.Common.Services;
 using InfraWatcher.Core.Models.Connection;
 using InfraWatcher.Core.Providers;
 using InfraWatcher.Core.Services;
-using InfraWatcher.Ssh;
-using InfraWatcher.Windows;
+using InfraWatcher.Connections.SSH;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -19,7 +18,7 @@ using InfraWatcher.Core.Models.Configuration;
 namespace InfraWatcher.Test
 {
     [TestClass]
-    public class LinuxServiceTest
+    public class LinuxScriptServiceTest
     {
         private static readonly ServerConnection ServerConnection = new ServerConnection
         {
@@ -34,35 +33,22 @@ namespace InfraWatcher.Test
         private static IServerConnectionService ServerConnectionService;
         private static IServerInfoService ServerInfoService;
         private static IServerMemoryService ServerMemoryService;
-        private static ICommandProvider CommandProvider;
 
         [ClassInitialize]
         public static void Initialize(TestContext testContext)
         {
             Environment.CurrentDirectory += "\\..\\..\\..\\";
             var builder = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+                .AddJsonFile("appsettings.scripts.json", optional: true, reloadOnChange: true);
 
             var serviceCollection = new ServiceCollection()
                 .Configure<InfraWatcherOption>(builder.Build())
-                .AddScoped<ICommandProvider, DefaultCommandProvider>()
+                .AddScoped<ICommandProvider, ScriptCommandProvider>()
                 .AddScoped<IServerInfoService, ServerInfoService>()
                 .AddScoped<IServerMemoryService, ServerMemoryService>()
                 .AddScoped<IServerOperatingSystemService, ServerOperatingSystemService>()
                 .AddScoped<IServerProcessorService, ServerProcessorService>()
-                .AddSingleton<IOperatingSystemProvider, TTLOperatingSystemProvider>()
-                .AddScoped<IServerConnectionService>((provider) =>
-                {
-                    var osProvider = provider.GetService<IOperatingSystemProvider>();
-                    var operatingSystem = osProvider.Detect(ServerConnection);
-
-                    if (operatingSystem.OperationSystem == "Linux")
-                        return new SshConnectionService();
-                    else if (operatingSystem.OperationSystem == "Windows")
-                        return new ManagementScopeConnectionService();
-                    else
-                        throw new ArgumentException("Unsupported operating system");
-                });
+                .AddScoped<IServerConnectionService, SSHConnectionService>();
 
             var serviceProvider = serviceCollection
                 .BuildServiceProvider();
@@ -71,23 +57,16 @@ namespace InfraWatcher.Test
             ServerConnectionService.Connect(ServerConnection);
             ServerInfoService = serviceProvider.GetService<IServerInfoService>();
             ServerMemoryService = serviceProvider.GetService<IServerMemoryService>();
-            CommandProvider = serviceProvider.GetService<ICommandProvider>();
         }
 
         [TestMethod]
-        public void GetIPAddress_Linux_ReturnIP()
+        [TestCategory("Command")]
+        [TestCategory("SH Script")]
+        public void GetSerialNumber_Linux_ReturnSerialNumber()
         {
-            var ipAddress = ServerInfoService.GetIPAddress(ServerConnectionService);
+            var serialNumber = ServerInfoService.GetSerialNumber(ServerConnectionService);
 
-            Assert.AreEqual(ServerConnectionService.ServerConnection.Host, ipAddress.ToString());
-        }
-
-        [TestMethod]
-        public void GetTotalMemory_LinuxOperatingSystem_UseLinuxCommand()
-        {
-            var totalMemory = ServerMemoryService.GetTotalMemory(ServerConnectionService);
-
-            Assert.IsTrue(totalMemory > 0);
+            Assert.IsNotNull(serialNumber);
         }
     }
 }
