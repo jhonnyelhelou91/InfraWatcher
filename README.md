@@ -5,12 +5,11 @@ Queries can be customized to run a custom command or script.
 
 ## Getting Started
 
-* Copy the files
-<br />
+* Copy the files <br />
 `git clone 'https://github.com/jhonnyelhelou91/InfraWatcher.git' 'C:\git\C#\InfraWatcher'`
-* Open the solution
+* Open the solution <br />
 `C:\git\C#\InfraWatcher\InfraWatcher.sln`
-* Build solution
+* Build solution <br />
 `Ctrl + Shift + B`
 
 ### Prerequisites
@@ -22,8 +21,7 @@ Queries can be customized to run a custom command or script.
 
 To run the tests, you need the following:
 
-* Build solution 
-<br />
+* Build solution <br />
 `Ctrl + Shift + B`
 * Open Test Explorer from Visual Studio `Ctrl + Q` then type `Test Explorer` and hit `Enter`
 * Update the hosts and credentials
