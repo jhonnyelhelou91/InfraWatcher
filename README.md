@@ -29,7 +29,7 @@ To run the tests, you need the following:
 
 - - - -
 
-## Definitions
+## Default Command Providers
 
 ### DefaultCommandProvider
 
@@ -48,3 +48,30 @@ Loads scripts as command texts. This is useful to:
 * Support retry logic.
 * Support logging on the server.
 * etc...
+
+- - - -
+
+## Default Connection Services
+
+### WMI (Windows Management Instrumentation) Connection
+
+Opens a connection that is able to execute WMI queries. This is useful to:
+* Connect to Windows servers
+* Support simple commands that manage CIM entities
+* Get machine information (since multiple providers exist for multiple windows operating systems)
+* Support [WQL query](https://docs.microsoft.com/en-us/windows/desktop/WmiSdk/wql-sql-for-wmi "WQL query")
+* Other [features](https://en.wikipedia.org/wiki/Windows_Management_Instrumentation#Features "features")
+
+### SSH Connection
+
+Opens an SSH connection where you can execute commands or scripts. This is useful to:
+* Connect to Linux servers
+* Support simple to complex operations
+* Other [features](https://en.wikipedia.org/wiki/Secure_Shell#Uses "features")
+
+### Remote PowerShell Connection
+
+Opens a connection to [WinRM](https://docs.microsoft.com/en-us/windows/desktop/winrm/portal "WinRM") service on a remote server. This is useful to:
+* Connect to Windows servers
+* Support simple to complex operations
+* Use PowerShell commands or scripts to perform operations
